@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<tasks>
+    <task taskID="1" parentID="1">
+        <taskName>Go to Gym</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration></actualDuration>
+        <taskStatus>Done</taskStatus>
+        <isUrgent>false</isUrgent>
+        <isImportant>true</isImportant>
+    </task>
+    <task taskID="2" parentID="1">
+        <taskName>Go to Gita class</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration></actualDuration>
+        <taskStatus>New</taskStatus>
+        <isUrgent>true</isUrgent>
+        <isImportant>false</isImportant>
+    </task>
+    <task taskID="1" parentID="2">
+        <taskName>Prepare for RedHat Exam</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration></actualDuration>
+        <taskStatus>new</taskStatus>
+        <isUrgent>true</isUrgent>
+        <isImportant>true</isImportant>
+    </task>
+</tasks>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+    <task taskID="1" parentID="1">
+        <taskName>Go to Gym</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration>0</actualDuration>
+        <isImportant>true</isImportant>
+        <isUrgent>false</isUrgent>
+        <taskStatus>Done</taskStatus>
+    </task>
+    <task taskID="2" parentID="1">
+        <taskName>Go to Gita class</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration>0</actualDuration>
+        <isImportant>false</isImportant>
+        <isUrgent>true</isUrgent>
+        <taskStatus>New</taskStatus>
+    </task>
+    <task taskID="1" parentID="2">
+        <taskName>Prepare for RedHat Exam</taskName>
+        <taskDescription></taskDescription>
+        <plannedStart>12/24/2015 10:20</plannedStart>
+        <plannedEnd>12/24/2015 11:20</plannedEnd>
+        <plannedDuration>60</plannedDuration>
+        <actualStart></actualStart>
+        <actualEnd></actualEnd>
+        <actualDuration>0</actualDuration>
+        <isImportant>true</isImportant>
+        <isUrgent>true</isUrgent>
+        <taskStatus>new</taskStatus>
+    </task>
+</tasks>
