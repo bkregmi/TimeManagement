@@ -20,8 +20,9 @@ import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 @XmlAccessorType(XmlAccessType.FIELD)
 /**
  * Task class maps to task fields from XML
- * /
  * 
+ */
+ 
 public class Task {
     @XmlAttribute (name="taskID")
     private int taskID;
