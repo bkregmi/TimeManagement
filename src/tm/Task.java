@@ -149,6 +149,7 @@ public class Task {
 
     @Override
     public String toString() {
+        /* Checked out of GIT */
         return "Task [ID=" + taskID
                 + ", Parent TaskID=" + parentID
                 + ", Task Name=" + taskName
